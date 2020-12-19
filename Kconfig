@@ -1,0 +1,4 @@
+config MY_DRIVER
+	tristate "IT'S SO FUNNY"
+	help
+	  This is my TROJAN, go install this sh*t
